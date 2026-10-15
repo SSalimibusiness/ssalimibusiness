@@ -2,10 +2,6 @@
   <img src="assets/profile-banner-static.png" alt="Sepehr Salimi - AI Deployment Engineer. Infrastructure &amp; Workflow Automation. Static black-and-amber cosmic banner." width="960" />
 </p>
 
-<p align="center">
-  <strong>AI INFRASTRUCTURE &amp; DEPLOYMENT</strong>
-</p>
-
 # Sepehr Salimi
 
 ## AI Infrastructure & Deployment
