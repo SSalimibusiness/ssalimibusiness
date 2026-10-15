@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An animated charcoal galaxy with amber-lit voxel geometry and drifting embers, inspired by the profile avatar." width="960" />
+  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An atmospheric black-and-amber cosmos with smooth obsidian forms and a subtle luminous glow, complementing the profile avatar." width="960" />
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@ Currently deploying **AI infrastructure and internal AI services** at [Dalgostar
 
 | Area | Expertise |
 | :--- | :--- |
-| **Networking** | Cisco |
+| **Networking** | Cisco · MikroTik |
 | **Virtualization** | VMware vSphere |
-| **Linux systems** | Linux |
+| **Linux Server Administration** | Ubuntu · Kali Linux |
 | **Microsoft systems administration** | Windows Server 2025 · MCSA / MCSE skillset |
 
-## Programming
+## Programming & Web
 
-**Python · Java**
+**Python · Java · JavaScript · HTML · CSS**
 
 ---
 
