@@ -1,18 +1,30 @@
+<p align="center">
+  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An animated navy galaxy with purple and cyan stars orbiting a central light." width="960" />
+</p>
+
+<p align="center">
+  <strong>AI INFRASTRUCTURE &amp; DEPLOYMENT</strong>
+</p>
+
 # Sepehr Salimi
 
-### Network Engineer · Enterprise Infrastructure
+## AI Infrastructure & Deployment
 
-I'm a network engineer with **3 years of experience**, currently working at [Dalgostar Bistoon](https://dalgostar.com).
+Currently deploying **AI infrastructure and internal AI services** at [Dalgostar Bistoon](https://dalgostar.com), building on **3 years of experience in network engineering**.
 
-My technical focus spans networking, virtualization, Windows Server, and Linux, alongside programming in Python and Java.
+## Infrastructure foundation
 
-## Technical skills
-
-| Area | Technologies |
+| Area | Expertise |
 | :--- | :--- |
-| Networking | Cisco |
-| Virtualization | VMware vSphere |
-| Systems | Windows Server 2025, Linux |
-| Programming | Python, Java |
+| **Networking** | Cisco |
+| **Virtualization** | VMware vSphere |
+| **Linux systems** | Linux |
+| **Microsoft systems administration** | Windows Server 2025 · MCSA / MCSE skillset |
 
-I also have knowledge of Microsoft administration topics covered by MCSA and MCSE.
+## Programming
+
+**Python · Java**
+
+---
+
+<p align="center"><sub>Networks. Systems. Infrastructure.</sub></p>
