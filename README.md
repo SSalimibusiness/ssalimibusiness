@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An animated navy galaxy with purple and cyan stars orbiting a central light." width="960" />
+  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An animated charcoal galaxy with amber-lit voxel geometry and drifting embers, inspired by the profile avatar." width="960" />
 </p>
 
 <p align="center">
