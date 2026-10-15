@@ -13,7 +13,7 @@ Currently deploying **AI infrastructure and internal AI services** at [Dalgostar
 | Area | Expertise |
 | :--- | :--- |
 | **Networking** | Cisco · MikroTik |
-| **Virtualization** | VMware vSphere |
+| **Virtualization** | VMware vSphere . Docker |
 | **Linux Server Administration** | Ubuntu · Kali Linux |
 | **Microsoft systems administration** | Windows Server 2025 · MCSA / MCSE skillset |
 
