@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/galaxy-banner.gif" alt="Sepehr Salimi - AI Infrastructure and Deployment. An atmospheric black-and-amber cosmos with smooth obsidian forms and a subtle luminous glow, complementing the profile avatar." width="960" />
+  <img src="assets/profile-banner-static.png" alt="Sepehr Salimi - AI Deployment Engineer. Infrastructure &amp; Workflow Automation. Static black-and-amber cosmic banner." width="960" />
 </p>
 
 <p align="center">
